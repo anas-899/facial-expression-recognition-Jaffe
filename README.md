@@ -1,6 +1,7 @@
 # Facial Expression Recognition In Jaffe Database
 
 A Python implementation for the method described in the paper:
+
 **Performance Comparisons of Facial Expression Recognition in Jaffe Database.**
 https://www.researchgate.net/publication/220359507_Performance_Comparisons_of_Facial_Expression_Recognition_in_Jaffe_Database
 
@@ -33,8 +34,11 @@ This will include:
 
 ### Installation
 `pip install PyWavelets`
+
 `pip install dlib`
+
 `pip install opencv-python`
+
 `pip install imutils`
 
 in addition to numpy, sklearn and matplotlib
